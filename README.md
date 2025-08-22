@@ -19,24 +19,24 @@ Após a entrada dos dados, o programa exibe as informações de forma **organiza
 
 O programa solicitará ao usuário as seguintes informações para cada carta:
 
-Estado: letra de A a H
+- Estado: letra de A a H
 
-Código da carta: ex. A01, B02
+- Código da carta: ex. A01, B02
 
-Nome da cidade: pode conter espaços
+- Nome da cidade: pode conter espaços
 
-População: número inteiro
+- População: número inteiro
 
-Área da cidade (em km²): número decimal
+- Área da cidade (em km²): número decimal
 
-PIB (em bilhões de reais): número decimal
+- PIB (em bilhões de reais): número decimal
 
-Número de pontos turísticos: inteiro
+- Número de pontos turísticos: inteiro
 
 📚 Tecnologias utilizadas
 
-Linguagem C
+- Linguagem C
 
-Compilador GCC
+- Compilador GCC
 
-Entrada e saída padrão (scanf e printf)
+- Entrada e saída padrão (scanf e printf)
